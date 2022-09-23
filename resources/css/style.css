@@ -29,7 +29,9 @@ body {
     color:aquamarine;
 }
 
-#top_text {color:white;}
-#text_2 {color: aquamarine;}
-#text_3 {color:white}
-#text_4 {color:white}
+/*footer */
+.footer--main {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
