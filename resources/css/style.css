@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*headings */
+.header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color:white;
+}
+
+.header--two {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.header--three {
+    font-weight: normal;
+    font-size: 21px;
+    color: gray;
+}
+
+/*links */
+.link--cta {
+    font-size: 16px;
+    color:aquamarine;
+}
+
+#top_text {color:white;}
+#text_2 {color: aquamarine;}
+#text_3 {color:white}
+#text_4 {color:white}
